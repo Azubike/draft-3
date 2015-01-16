@@ -252,9 +252,16 @@ ul.nav.nav-pills {
 @media only screen and (max-width: 667px) {
   .league h1 {
     font-size: 90px; }
- }
 
+  h1.games {
+    text-align: center;
+    padding: 0px }
+ }
+    
 @media only screen and (max-width: 320px) {
   .league h1 {
     font-size: 65px; }
+    .league {
+    padding-top: 35vh;
+    }
  }
