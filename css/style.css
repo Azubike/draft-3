@@ -248,6 +248,15 @@ ul.nav.nav-pills {
   .filters {
     display: none; }
  }
+ @media only screen and (max-width: 980px) and (min-width: 667)  {
+
+  h1.games {
+    text-align: center;
+    padding-left: 45%; }
+
+  .filters {
+    display: none; }
+ }
 
 @media only screen and (max-width: 667px) {
   .league h1 {
