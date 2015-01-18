@@ -71,6 +71,7 @@ span#basic-addon2 {
 .home-wrap {
   background-image: url(../img/mario2.jpg);
   background-size: cover;
+  background-attachment: fixed;
   height: 100vh; }
 
 .bets-wrapper {
@@ -243,7 +244,7 @@ ul.nav.nav-pills {
 
   h1.games {
     text-align: center;
-    padding-left: 45%; }
+     }
 
   .filters {
     display: none; }
