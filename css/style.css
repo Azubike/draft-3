@@ -28,6 +28,10 @@ body {
   border: 1px solid white;
   padding: 10px; }
 
+.nav-pills>li+li {
+margin-left: 0px !important;
+}
+
 .section-header.bets-header {
   padding-top: 30px;
   padding-bottom: 0px; }
